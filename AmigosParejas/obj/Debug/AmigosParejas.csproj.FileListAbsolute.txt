@@ -1,0 +1,6 @@
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas\bin\Debug\AmigosParejas.exe.config
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas\bin\Debug\AmigosParejas.exe
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas\bin\Debug\AmigosParejas.pdb
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas\obj\Debug\AmigosParejas.csprojAssemblyReference.cache
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas\obj\Debug\AmigosParejas.exe
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas\obj\Debug\AmigosParejas.pdb

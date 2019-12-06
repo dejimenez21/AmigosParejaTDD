@@ -1,0 +1,16 @@
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\bin\Debug\AmigosParejas.Test.dll
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\bin\Debug\AmigosParejas.Test.pdb
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\bin\Debug\AmigosParejas.exe
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\bin\Debug\AmigosParejas.pdb
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\bin\Debug\AmigosParejas.exe.config
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\obj\Debug\AmigosParejas.Test.csprojAssemblyReference.cache
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\obj\Debug\AmigosParejas.Test.csproj.CopyComplete
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\obj\Debug\AmigosParejas.Test.dll
+C:\Users\dejim\source\repos\AmigosParejas\AmigosParejas.Test\obj\Debug\AmigosParejas.Test.pdb
